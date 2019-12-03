@@ -1,0 +1,4 @@
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\ERPLibrary\bin\Debug\ERPLibrary.dll
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\ERPLibrary\bin\Debug\ERPLibrary.pdb
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\ERPLibrary\obj\Debug\ERPLibrary.dll
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\ERPLibrary\obj\Debug\ERPLibrary.pdb

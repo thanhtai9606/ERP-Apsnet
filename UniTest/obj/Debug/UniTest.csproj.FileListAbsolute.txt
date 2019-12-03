@@ -1,0 +1,6 @@
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\UniTest\bin\Debug\UniTest.exe.config
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\UniTest\bin\Debug\UniTest.exe
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\UniTest\bin\Debug\UniTest.pdb
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\UniTest\obj\Debug\UniTest.exe
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\UniTest\obj\Debug\UniTest.pdb
+C:\Users\Le Thanh Dung\Documents\Visual Studio 2017\Projects\ERPSystem\UniTest\obj\Debug\UniTest.csprojResolveAssemblyReference.cache
